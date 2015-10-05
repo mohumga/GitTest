@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	_tprintf(_T("Hello World!\r\n"));
+	_tprintf(_T("Hello There!\r\n"));
 
 	return 0;
 }
